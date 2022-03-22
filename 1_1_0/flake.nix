@@ -9,7 +9,7 @@
   
   inputs.src-sqliteral-1_1_0.flake = false;
   inputs.src-sqliteral-1_1_0.owner = "olliNiinivaara";
-  inputs.src-sqliteral-1_1_0.ref   = "refs/tags/1.1.0";
+  inputs.src-sqliteral-1_1_0.ref   = "1_1_0";
   inputs.src-sqliteral-1_1_0.repo  = "SQLiteral";
   inputs.src-sqliteral-1_1_0.type  = "github";
   
